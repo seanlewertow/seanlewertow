@@ -1,6 +1,6 @@
 ## Hey, I’m Sean 
 
-<img src="headshot.jpg" width="220" align="left" />
+<img src="headshotnsbe.jpg" width="220" align="left" />
 
 Computer Science graduate from the University of Florida  
 Full stack engineer who builds clean, reliable product experiences  
